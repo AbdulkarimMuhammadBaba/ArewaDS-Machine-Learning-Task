@@ -5,13 +5,13 @@ The breakdown of the concepts covered by week is as follows:
 
 |Week|Content Covered|
 |---|---|
-|1|[Introduction to Machine Learning](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/blob/main/week_01/week_01_summary.md)|
-|2|[Working with data](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_02)|
-|3|[Data Visualization](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_03)|
-|4|[Regression](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_04)|
-|5|[Classification](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_05)|
-|6|[Clustering](https://github.com/lukmanaj/ArewaDS-Machine-Learning-Assignments/tree/main/week_06)|
-|7|Natural Language Processing|
-|8|Sentiment Analysis|
-|9|Time Series Forecasting|
+|1|[Introduction to Machine Learning](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/edit/main/README.md)|
+|2|[Working with data](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/tree/main/Week02)|
+|3|[Data Visualization](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/tree/main/Week03)|
+|4|[Regression](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/tree/main/Week04)|
+|5|[Classification](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/tree/main/Week05)|
+|6|[Clustering](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/tree/main/Week06)|
+|7|[Natural Language Processing](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/tree/main/Week07)|
+|8|[Sentiment Analysis](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/tree/main/Week08)|
+|9|[Time Series Forecasting](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/tree/main/Week09)|
 |10|Reinforcement Learning|
