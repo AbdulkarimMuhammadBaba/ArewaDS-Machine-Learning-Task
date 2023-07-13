@@ -14,4 +14,4 @@ The breakdown of the concepts covered by week is as follows:
 |7|[Natural Language Processing](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/tree/main/Week07)|
 |8|[Sentiment Analysis](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/tree/main/Week08)|
 |9|[Time Series Forecasting](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/tree/main/Week09)|
-|10|Reinforcement Learning|
+|10|[Reinforcement Learning](https://github.com/AbdulkarimMuhammadBaba/ArewaDS-Machine-Learning-Task/tree/main/Week10)|
